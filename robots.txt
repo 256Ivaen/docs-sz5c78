@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-6jszly.salamcuan.shop/sitemap.xml
